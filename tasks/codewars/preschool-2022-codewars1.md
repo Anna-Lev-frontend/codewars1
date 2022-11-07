@@ -9,10 +9,10 @@
 - 8 kyu https://www.codewars.com/kata/convert-to-binary
 - [x] 8 kyu https://www.codewars.com/kata/even-or-odd
 - 8 kyu https://www.codewars.com/kata/fake-binary/javascript
-- 7 kyu https://www.codewars.com/kata/largest-square-inside-a-circle
+- [x] 7 kyu https://www.codewars.com/kata/largest-square-inside-a-circle
 - [x] 7 kyu https://www.codewars.com/kata/number-of-decimal-digits
 - [x] 8 kyu https://www.codewars.com/kata/opposite-number
-- [x] 7 kyu https://www.codewars.com/kata/perimeter-sequence
+-  7 kyu https://www.codewars.com/kata/perimeter-sequence
 - [x] 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
 - [x] 8 kyu https://www.codewars.com/kata/remove-string-spaces
 - 7 kyu https://www.codewars.com/kata/string-ends-with
