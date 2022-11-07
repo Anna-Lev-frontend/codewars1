@@ -6,7 +6,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/century-from-year
 - [x] 8 kyu https://www.codewars.com/kata/convert-a-number-to-a-string
 - [x] 8 kyu https://www.codewars.com/kata/convert-a-string-to-a-number
-- 8 kyu https://www.codewars.com/kata/convert-to-binary
+- [x] 8 kyu https://www.codewars.com/kata/convert-to-binary
 - [x] 8 kyu https://www.codewars.com/kata/even-or-odd
 - 8 kyu https://www.codewars.com/kata/fake-binary/javascript
 - [x] 7 kyu https://www.codewars.com/kata/largest-square-inside-a-circle
