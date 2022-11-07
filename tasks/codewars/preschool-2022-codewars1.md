@@ -3,7 +3,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/function-1-hello-world
 - [x] 8 kyu https://www.codewars.com/kata/can-we-divide-it 
 - [x] 8 kyu https://www.codewars.com/kata/capitalization-and-mutability 
-- 8 kyu https://www.codewars.com/kata/century-from-year
+- [x] 8 kyu https://www.codewars.com/kata/century-from-year
 - [x] 8 kyu https://www.codewars.com/kata/convert-a-number-to-a-string
 - [x] 8 kyu https://www.codewars.com/kata/convert-a-string-to-a-number
 - 8 kyu https://www.codewars.com/kata/convert-to-binary
