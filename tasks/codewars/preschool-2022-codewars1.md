@@ -20,7 +20,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/string-repeat
 - [x] 8 kyu https://www.codewars.com/kata/students-final-grade
 - 8 kyu https://www.codewars.com/kata/switch-it-up
-- 8 kyu https://www.codewars.com/kata/thinkful-logic-drills-traffic-light
+- [x] 8 kyu https://www.codewars.com/kata/thinkful-logic-drills-traffic-light
 - 8 kyu https://www.codewars.com/kata/third-angle-of-a-triangle
 - [x] 8 kyu https://www.codewars.com/kata/transportation-on-vacation
 - [x] 8 kyu https://www.codewars.com/kata/type-of-sum
