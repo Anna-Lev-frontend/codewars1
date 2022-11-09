@@ -18,11 +18,11 @@
 - 7 kyu https://www.codewars.com/kata/string-ends-with
 - [x] 8 kyu https://www.codewars.com/kata/simple-multiplication
 - [x] 8 kyu https://www.codewars.com/kata/string-repeat
-- 8 kyu https://www.codewars.com/kata/students-final-grade
+- [x] 8 kyu https://www.codewars.com/kata/students-final-grade
 - 8 kyu https://www.codewars.com/kata/switch-it-up
 - 8 kyu https://www.codewars.com/kata/thinkful-logic-drills-traffic-light
 - 8 kyu https://www.codewars.com/kata/third-angle-of-a-triangle
-- 8 kyu https://www.codewars.com/kata/transportation-on-vacation
+- [x] 8 kyu https://www.codewars.com/kata/transportation-on-vacation
 - [x] 8 kyu https://www.codewars.com/kata/type-of-sum
 - 8 kyu https://www.codewars.com/kata/will-you-make-it
 
