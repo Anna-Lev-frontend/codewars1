@@ -21,7 +21,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/students-final-grade
 - [x] 8 kyu https://www.codewars.com/kata/switch-it-up
 - [x] 8 kyu https://www.codewars.com/kata/thinkful-logic-drills-traffic-light
-- 8 kyu https://www.codewars.com/kata/third-angle-of-a-triangle
+- [x] 8 kyu https://www.codewars.com/kata/third-angle-of-a-triangle
 - [x] 8 kyu https://www.codewars.com/kata/transportation-on-vacation
 - [x] 8 kyu https://www.codewars.com/kata/type-of-sum
 - 8 kyu https://www.codewars.com/kata/will-you-make-it
