@@ -15,7 +15,7 @@
 -  [x] 7 kyu https://www.codewars.com/kata/perimeter-sequence
 - [x] 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
 - [x] 8 kyu https://www.codewars.com/kata/remove-string-spaces
-- 7 kyu https://www.codewars.com/kata/string-ends-with
+- [x] 7 kyu https://www.codewars.com/kata/string-ends-with
 - [x] 8 kyu https://www.codewars.com/kata/simple-multiplication
 - [x] 8 kyu https://www.codewars.com/kata/string-repeat
 - [x] 8 kyu https://www.codewars.com/kata/students-final-grade
