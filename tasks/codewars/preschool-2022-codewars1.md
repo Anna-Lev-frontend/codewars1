@@ -8,7 +8,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/convert-a-string-to-a-number
 - [x] 8 kyu https://www.codewars.com/kata/convert-to-binary
 - [x] 8 kyu https://www.codewars.com/kata/even-or-odd
-- 8 kyu https://www.codewars.com/kata/fake-binary/javascript
+- [x] 8 kyu https://www.codewars.com/kata/fake-binary/javascript
 - [x] 7 kyu https://www.codewars.com/kata/largest-square-inside-a-circle
 - [x] 7 kyu https://www.codewars.com/kata/number-of-decimal-digits
 - [x] 8 kyu https://www.codewars.com/kata/opposite-number
