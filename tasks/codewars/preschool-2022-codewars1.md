@@ -24,7 +24,7 @@
 - [x] 8 kyu https://www.codewars.com/kata/third-angle-of-a-triangle
 - [x] 8 kyu https://www.codewars.com/kata/transportation-on-vacation
 - [x] 8 kyu https://www.codewars.com/kata/type-of-sum
-- 8 kyu https://www.codewars.com/kata/will-you-make-it
+- [x] 8 kyu https://www.codewars.com/kata/will-you-make-it
 
 ## Как сабмитить задание
 Codewars - автопроверяемый таск.  
